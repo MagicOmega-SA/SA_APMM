@@ -17,3 +17,7 @@ APM 显示在左下角 `FPS / Avg` 右侧。关闭 FPS 时，APM 仍在左下角
 ## 构建
 
 使用 32 位 MinGW-w64，在本目录运行 `python build.py`。如需指定工具链，将 `MOE_MINGW` 设为工具链的 `bin` 目录。
+
+## 许可证
+
+SA_APMM 插件采用 [MIT 许可证](LICENSE)。游戏本体、Syringe 和 Ares 各自遵循其原有许可。
